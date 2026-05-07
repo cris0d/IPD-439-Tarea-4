@@ -1,0 +1,8 @@
+# Excluir carpetas de compilación
+**/Debug/
+**/Release/
+
+# Excluir archivos de configuración local del IDE
+**/.settings/
+**/*.launch
+**/.mxproject
